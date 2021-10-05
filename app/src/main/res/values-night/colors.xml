@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="cardBackground">#333333</color>
+    <color name="backgroundPrimary">#1B1B1B</color>
+    <color name="hintText">#E1DBDB</color>
+    <color name="buttonPrimary">#6F5BFD</color>
+    <color name="editTextBg">#515151</color>
+    <color name="textPrimary">#fff</color>
+    <color name="textSecondary">#E6DFDF</color>
+    <color name="textTertiary">#FAF0F0</color>
+    <color name="buttonSecondary">#CA0300</color>
+    <color name="buttonTertiary">#32C743</color>
+    <color name="backgroundSecondary">#1B1B1B</color>
+    <color name="thinBorder">#F7F7FD</color>
+</resources>

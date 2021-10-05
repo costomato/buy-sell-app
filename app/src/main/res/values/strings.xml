@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">buysell</string>
+    <string name="total_purchase">Total Purchase</string>
+    <string name="total_sell">Total Sell</string>
+    <string name="details">Details</string>
+    <string name="purchases">Purchase</string>
+    <string name="sell">Sell</string>
+    <string name="enter_product_name">Enter product name</string>
+    <string name="ex_pizza">Ex - Pizza</string>
+    <string name="price">Price</string>
+    <string name="ex_200">Ex - 200</string>
+    <string name="unit_of_price">Unit of price</string>
+    <string name="_1">1</string>
+    <string name="add_unit">Add unit</string>
+    <string name="total_quantity">Total quantity</string>
+    <string name="total">Total</string>
+    <string name="save">Save</string>
+    <string name="piece">Piece</string>
+    <string name="kg">KG</string>
+    <string name="gram">Gram</string>
+    <string name="ml">ML</string>
+    <string name="litre">Litre</string>
+    <string name="mm">MM</string>
+    <string name="inch">Inch</string>
+    <string name="feet">Feet</string>
+    <string name="meter">Meter</string>
+    <string name="sq_ft">Sq Ft</string>
+    <string name="sq_meter">Sq Meter</string>
+    <string name="km">KM</string>
+</resources>
